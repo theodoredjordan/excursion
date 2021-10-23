@@ -1,2 +1,2 @@
 # excursion
-Codcademy Excrusion Project.  Website with vide.
+Codcademy Excrusion Project.  Website with video.
